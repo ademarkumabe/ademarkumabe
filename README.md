@@ -1,15 +1,8 @@
-## Hello! welcome to my Github profile.
+## Olá! Bem vindo ao meu perfil do GitHub.
 
-> # Me chamo Ademar, Sou Arquiteto de Software e Desenvolvedor Java.
+> # Eu me chamo Ademar, Sou Arquiteto de Software e Desenvolvedor Java.
 
-Recém formado em Análise e Desenvolvimento de Sistemas. Em Março darei um importante passo ao iniciar minhas aulas na pós-graduação em Arquitetura e Desenvolvimento Java, reforçando meu compromisso com o aprimoramento contínuo.
+Iniciei minha trajetória no desenvolvimento front-end durante a graduação, atuando com HTML, CSS e JavaScript, manipulação do DOM e criação de layouts responsivos utilizando media queries, variáveis CSS e pseudo-classes para garantir consistência e usabilidade.
 
-## Connect with me:
+Atualmente, na pós-graduação, meu foco está no desenvolvimento back-end, com experiência em Spring Boot, Java, integração com MySQL, orquestração com Docker Compose e automação de pipelines de CI/CD. Tenho vivência em consumo de APIs, cache em memória, aplicação de princípios SOLID, modelagem arquitetural com C4 Models, testes de endpoints e documentação de serviços utilizando Swagger.
 
-<div>
-<a href = "mailto:ademar.kumabe@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/ademarkumabe/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
-> # GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ademarkumabe)
